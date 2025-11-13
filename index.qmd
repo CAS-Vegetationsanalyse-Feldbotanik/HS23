@@ -13,16 +13,15 @@ Diese Unterlagen stehen sowohl als Website ({{< var urls.uebungen >}}) wie auch 
 | von   | bis   | Thema                                                           |
 |-------|-------|-----------------------------------------------------------------|
 | 09:00 | 09:35 | Begrüssung und [Einführung räumliche Daten](https://cas-vegetationsanalyse-feldbotanik.github.io/HS21/01_Einfuehrung.html)                                                              |
-| 09:50 | 10:35 | Vektordaten: [Übung 1](uebung_1.qmd)                            |
-| 10:50 | 12:00 | Vektordaten: [Übung 1](uebung_1.qmd) & [Übung 2](uebung_1.qmd)  |
+| 09:50 | 10:35 | Vektordaten: @sec-uebung-1                                      |
+| 10:50 | 12:00 | Vektordaten: @sec-uebung-1 & @sec-uebung-2                      |
 | 12:00 | 13:00 | **Mittagspause**                                                |
-| 13:00 | 13:35 | Rasterdaten: [Input](https://cas-vegetationsanalyse-feldbotanik.github.io/HS21/04_Input_Raster.html) und [Übung 3](uebung_3.qmd) beginnen         |
-| 13:50 | 14:35 | Rasterdaten:  [Übung 3](uebung_3.qmd) & [Übung 4](uebung_4.qmd) |
-| 14:50 | 15:35 | Integration von Geodaten: [Übung 5](uebung_5.qmd)               |
-| 15:50 | 17:00 | Sampling Design: [Übung 6](uebung_6.qmd)                        |
+| 13:00 | 13:35 | Rasterdaten: [Input](https://cas-vegetationsanalyse-feldbotanik.github.io/HS21/04_Input_Raster.html) und @sec-uebung-3 beginnen                   |
+| 13:50 | 14:35 | Rasterdaten:  @sec-uebung-3 & @sec-uebung-4                     |         
+| 14:50 | 15:35 | Integration von Geodaten: @sec-uebung-5                         |
+| 15:50 | 17:00 | Sampling Design: @sec-uebung-6                                  |
 
 : Ungefährer Zeitplan für den Kurstag
-
 :::
 
 
